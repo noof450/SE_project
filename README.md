@@ -1,6 +1,6 @@
 <h1 align="center">SE_project</h1>
+<h1 align="center">developing food text classification system</h1>
 
-# developing food text classification system
 This project is based on developing a web-based machine learning system for simple text classification .
 
 
