@@ -1,4 +1,4 @@
-   ## SE_project
+<h1 align="center">SE_project 2</h1>
 # developing food text classification system
 This project is based on developing a web-based machine learning system for simple text classification .
 
@@ -15,20 +15,18 @@ These links will help you to run Travis CI in your working project:
  * https://www.youtube.com/watch?v=bt1iOy9lv0U 
 
 # Travis-CI integration 
+![image](https://user-images.githubusercontent.com/95547167/170349514-41e2a996-4904-406d-a294-2f5301661e04.png)
 
-![image](https://user-images.githubusercontent.com/95547167/170346320-a27d9079-e39a-452a-9fdd-c40ea86e4254.png)
-
-![image](https://user-images.githubusercontent.com/95547167/170346446-7856adea-07a0-42da-87a2-d46b8b2ac856.png)
+![image](https://user-images.githubusercontent.com/95547167/170349802-d60109f1-db85-49bb-866e-29bb27888264.png)
 
 
 # Acknowledgment
 This demo helped us with the project
 * https://github.com/snapppy/fasttext-demo
-* https://www..com youtube /watch?v=Ob9llA_QhQY
+* https://www.youtube.com/watch?v=Ob9llA_QhQY
 
 
 # Project team:
-
 | Name        | Email           |
 | ------------- |:-------------:|
 | Nouf Hassan Alnikhili | nalnikhili@sm.imamu.edu.sm |
