@@ -16,7 +16,7 @@ These links will help you to run Travis CI in your working project:
  * https://www.youtube.com/watch?v=bt1iOy9lv0U 
 
 # Travis-CI integration 
-![image](https://user-images.githubusercontent.com/95547167/170373764-3389acc2-5b52-4098-b885-4269131ed3a0.png)
+![image](https://user-images.githubusercontent.com/95547167/170373764-3389acc2-5b52-4098-b885-4269131ed3a0.png) 
 
 
 ![image](https://user-images.githubusercontent.com/95547167/170349802-d60109f1-db85-49bb-866e-29bb27888264.png)
