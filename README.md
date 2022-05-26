@@ -44,7 +44,7 @@ This videos helped us with the project
 # Project team:
 | Name        | Email           |
 | ------------- |:-------------:|
-| Nouf Hassan Alnikhili | nalnikhili@sm.imamu.edu.sm |
+| Nouf Hassan Alnikhili | nalnikhili@sm.imamu.edu.sa |
 | Rawan Saad Alshalawi  | rsmalshalawi@sm.imamu.edu.sa |
 | Fatimah Ahmed Bin Dous | faadous@sm.imamu.edu.sa |
 | Ameerah Ali Alsuhibani | aalsuhaibani29@sm.imamu.edu.sa |
