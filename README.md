@@ -22,8 +22,21 @@ These links will help you to run Travis CI in your working project:
 ![image](https://user-images.githubusercontent.com/95547167/170349802-d60109f1-db85-49bb-866e-29bb27888264.png)
 
 
+# My HTML page
+![image](https://user-images.githubusercontent.com/95547167/170483287-12be960d-20eb-4165-afec-29b5a192e373.png)
+
+![image](https://user-images.githubusercontent.com/95547167/170483409-2aedb5ea-34c5-44ab-be75-aecc079981b8.png)
+
+![image](https://user-images.githubusercontent.com/95547167/170484480-bcf5d391-4ec7-4fc2-88d7-338000aaec7d.png)
+
+
+# issues
+* Sorry, I was not able to test my page because I worked hard to download fasttext, but I could not download it to my device due to many errors
+* Because I can't load fasttext, I can't open the primitive html page, so I just modified it
+
+
 # Acknowledgment
-This demo helped us with the project
+This videos helped us with the project
 * https://github.com/snapppy/fasttext-demo
 * https://www.youtube.com/watch?v=Ob9llA_QhQY
 
