@@ -1,12 +1,103 @@
- <!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Your front-end</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>food classification system</title>
 </head>
+<style type="text/css">
+       *{
+            margin: 0pt;
+            padding: 0pt;
+        }
 
+        header{
+            margin: 0pt;
+            margin-right: 0pt;
+        }
+
+        header h1{
+            margin-top: 20pt;
+            padding: 20pt;
+            font-size: 43pt;
+            font-family: 'courier';
+            text-align: center;
+            color: green;
+           
+        }
+        p{
+      
+            padding: 20pt;
+            font-size: 20pt;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+        }
+
+        header img{
+            margin: 15pt;
+            float: right;
+        }
+
+        .center {
+		  margin: auto;
+		  margin-top: 70px;
+		  width: 30%;
+		  padding: 10px;
+		  text-align: center;
+		}
+
+        input{
+            padding: 10px;
+        }
+
+</style>
 <body>
-<form action="/fasttext">
+    
+    <header>
+           
+        <img src="https://media.istockphoto.com/vectors/restaurant-icon-vector-id1038356020?k=20&m=1038356020&s=612x612&w=0&h=Y1okNvzppPix48prPDockvquxIT4jXHWLi5YJ9nO-FQ="width="150"height="150"alt="logo">
+        
+        <h1 class="Title" ALIGN ="CENTER"style="background-color:white;"></p> Food Text Classification System </h1>
+       
+            
+            <body style="background-color:lightgreen;">
+
+           </body>
+    </header>
+
+     
+    <form class="center" action="#">
+
+  
+        <p>Enter your text to be classified</p>
+        <textarea id='Text' name="Text" rows="20" cols="50" placeholder="User text goes here"></textarea>
+        <br>
+        <input type="button" value="Submit Results" onclick="submitt()">
+        <input type="submit" value="Clear Text" onclick="clear()"text-align="right">
+        
+        <br>
+        <br>
+        <br>
+        
+        
+        <br>
+        <textarea readonly id='result' name="Result" rows="20" cols="50"> </textarea>
+    </form> 
+        
+</body> 
+
+<script>
+
+        function submitt(){
+            document.getElementById('result').value =  document.getElementById('result').value +" "+ document.getElementById('Text').value;
+            document.getElementById('Text').value = '';
+        }
+        function clear(){
+            document.getElementById('Text').value = '';
+        }
+        </script>
+	<form action="/fasttext">
 	Enter your text to be classified<br>
 	<input type="text" name="statement">
 	<input type="submit" value="Submit">
@@ -14,4 +105,4 @@
 
 </body>
 
-</html> 
+</html>
